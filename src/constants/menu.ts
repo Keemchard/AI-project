@@ -23,5 +23,9 @@ const menu: MenuItem[] = [
     name: "ChatBot",
     href: "/chat/chatbot",
   },
+  {
+    name: "Booky",
+    href: "booky/blog",
+  },
 ];
 export default menu;
